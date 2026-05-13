@@ -6,12 +6,6 @@ Dabble gamepad app.
 
 ---
 
-## 📸 Demo
-
-> *(Add your photo or video here)*
-
----
-
 ## ⚙️ Features
 
 - 4 DC motors for full directional movement
